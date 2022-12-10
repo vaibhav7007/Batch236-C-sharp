@@ -1,0 +1,5 @@
+C:\C\reversenumber\reversenumber\obj\Debug\net5.0\reversenumberandword.csproj.AssemblyReference.cache
+C:\C\reversenumber\reversenumber\obj\Debug\net5.0\reversenumberandword.GeneratedMSBuildEditorConfig.editorconfig
+C:\C\reversenumber\reversenumber\obj\Debug\net5.0\reversenumberandword.AssemblyInfoInputs.cache
+C:\C\reversenumber\reversenumber\obj\Debug\net5.0\reversenumberandword.AssemblyInfo.cs
+C:\C\reversenumber\reversenumber\obj\Debug\net5.0\reversenumberandword.csproj.CoreCompileInputs.cache
